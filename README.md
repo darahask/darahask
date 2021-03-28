@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is [Darahas Kopparapu](https://www.linkedin.com/in/darahask/) 👋
 
 - 🔭 I’m currently working on [dst-compiler](https://github.com/darahask/dst-custom-compiler) [pr-summariz](https://github.com/darahask/pr-summarise)
 - 🌱 I’m currently learning Computer Networks, DBMS, Artificial Intelligence
