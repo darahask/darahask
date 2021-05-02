@@ -1,4 +1,4 @@
-### Hi there, this is Darahas Kopparapu 👋
+## Hi there, this is Darahas Kopparapu 👋
 
 - 🔭 I’m currently working on [dst-compiler](https://github.com/darahask/dst-custom-compiler) [pr-summariz](https://github.com/darahask/pr-summarise) [xinu_assistant](https://github.com/darahask/xinu_assistant)
 - 🌱 I’m currently learning Computer Networks, DBMS, AI, Compiler Design
