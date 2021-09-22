@@ -1,9 +1,8 @@
 ## Hi there, this is Darahas Kopparapu 👋
 
-- 🔭 I’m currently working on [dst-compiler](https://github.com/darahask/dst-custom-compiler) [pr-summariz](https://github.com/darahask/pr-summarise) [xinu_assistant](https://github.com/darahask/xinu_assistant)
-- 🌱 I’m currently learning Computer Networks, DBMS, AI, OS, Compiler Design
+- 🌱 I’m currently learning Operating Systems, Machine Learning
 - 👯 I’m looking to collaborate on <b>anything!!!</b>
-- 💬 Ask me about <b>flutter</b>, <b>android</b>
+- 💬 Ask me about <b>android</b>
 - 📫 How to reach me: darahask12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
