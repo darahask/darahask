@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Operating Systems, Machine Learning
 - 👯 I’m looking to collaborate on <b>anything!!!</b>
-- 💬 Ask me about <b>android</b>
+- 💬 Ask me about <b>Mobile and Web application development</b>
 - 📫 How to reach me: darahask12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
