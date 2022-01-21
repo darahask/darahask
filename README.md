@@ -1,6 +1,6 @@
 ## Hi there, this is Darahas Kopparapu 👋
 
-- 🌱 I’m currently learning Operating Systems, Machine Learning
+- 🌱 I’m currently learning Cyber Security and C++ Development
 - 👯 I’m looking to collaborate on <b>anything!!!</b>
 - 💬 Ask me about <b>Mobile and Web application development</b>
 - 📫 How to reach me: darahask12@gmail.com
