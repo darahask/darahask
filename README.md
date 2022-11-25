@@ -1,8 +1,7 @@
 ## Hi there, this is Darahas Kopparapu 👋
 
-- 🌱 I’m currently Blockchain and Web3
+- 🌱 I’m currently exploring Blockchain and Web3
 - 👯 I’m looking to collaborate on <b>anything!!!</b>
-- 💬 Ask me about <b>Mobile and Web application development</b>
 - 📫 How to reach me: darahask12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
